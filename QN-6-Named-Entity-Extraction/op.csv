@@ -1,0 +1,155 @@
+,text,cleaned_text,extracted_entities
+0,"@RepValDemings @maddogpac Its. By. Design.
+They aren't even hiding it anymore","  Its. By. Design.
+They aren't even hiding it anymore",
+1,RT @RepValDemings: The president’s plan to hold mass rallies in Florida and elsewhere as we experience a resurgence in COVID cases is irres…, The president’s plan to hold mass rallies in Florida and elsewhere as we experience a resurgence in COVID cases is irres…,"[('Florida', 'LOCATION'), ('COVID', 'VIRUS')]"
+2,RT @RepValDemings: Tulsa was the site of the worst racist violence in American history. The president’s speech there on Juneteenth is a mes…, Tulsa was the site of the worst racist violence in American history. The president’s speech there on Juneteenth is a mes…,"[('America', 'COUNTRY'), ('America', 'COUNTRY'), ('Tulsa', 'LOCATION')]"
+3,@RepValDemings Based on what...?, Based on what...?,
+4,@RepValDemings You are a moron .. so it’s alright to have protest and gatherings because to dumb ass people feeling… https://t.co/ftIwn1TJh8, You are a moron .. so it’s alright to have protest and gatherings because to dumb ass people feeling… ,
+5,@RepValDemings Not does @GovRonDeSantis care.  #racistron only cares about you if you donate to his campaign or if… https://t.co/i7SKFAcUmR, Not does  care.   only cares about you if you donate to his campaign or if… ,
+6,"RT @OrlandoPolice: ARRESTED: @OrlandoPolice  arrested today Marcus Deion Brown, 36 years of age. Brown is the suspect from the fatal crash…"," ARRESTE   arrested today Marcus Deion Brown, 36 years of age. Brown is the suspect from the fatal crash…","[('Marcus Deion Brown', 'PERSON')]"
+7,@RepValDemings U should be cheering! Deplorable and the President killing themselves with COVID. Guess ur concerned… https://t.co/zRNypjSBw2, U should be cheering! Deplorable and the President killing themselves with COVID. Guess ur concerned… ,"[('COVID', 'VIRUS')]"
+8,@RepValDemings We are just hosting protests., We are just hosting protests.,
+9,"RT @RepValDemings: Unfortunately, Florida is experiencing a new surge in COVID-19 cases. I urge you to do everything you can to protect you…"," Unfortunately, Florida is experiencing a new surge in COVID-19 cases. I urge you to do everything you can to protect you…","[('COVID-19', 'VIRUS'), ('Florida', 'LOCATION'), ('COVID', 'VIRUS')]"
+10,"@RepValDemings Dead people cant vote. At least they shouldnt be able to. However, with Trump in charge...who knows?
+."," Dead people cant vote. At least they shouldnt be able to. However, with Trump in charge...who knows?
+.","[('Trump', 'CANDIDATE')]"
+11,RT @RepValDemings: The president and the attorney general have a direct responsibility to intervene and put the full weight of the White Ho…, The president and the attorney general have a direct responsibility to intervene and put the full weight of the White Ho…,
+12,@RepValDemings You don’t decide our future.  We do., You don’t decide our future.  We do.,
+13,@RepValDemings This is the look of pure Evil https://t.co/xGCNwR5Uoa, This is the look of pure Evil ,
+14,RT @RepValDemings: Today would be a good day for the president to announce a comprehensive national testing plan. https://t.co/YA80uQ5Qbm, Today would be a good day for the president to announce a comprehensive national testing plan. ,
+15,@RepValDemings Tell this crap to the bums in Seattle., Tell this crap to the bums in Seattle.,"[('Seattle', 'LOCATION')]"
+16,"RT @RepValDemings: “Unfortunately, we know that foreign actors have historically sought to exploit tensions in American communities…
+
+""we d…"," “Unfortunately, we know that foreign actors have historically sought to exploit tensions in American communities…
+
+""we d…","[('America', 'COUNTRY'), ('America', 'COUNTRY')]"
+17,@RepValDemings Are you serious???? OMG!!!, Are you serious???? OMG!!!,
+18,RT @RepValDemings: Today would be a good day for the president to announce a comprehensive national testing plan., Today would be a good day for the president to announce a comprehensive national testing plan.,
+19,@RepValDemings Riots are safer?  You idiot, Riots are safer?  You idiot,
+20,@RepValDemings You're just mad that nobody will be looting or burning buildings after the rally., You're just mad that nobody will be looting or burning buildings after the rally.,
+21,@RepValDemings Are you being serious with me right now?, Are you being serious with me right now?,
+22,@RepValDemings Just change the name. We're going to a Trump Riot. All good now? Where was Fauci during the riots BT… https://t.co/FC2UzBfOo0, Just change the name. We're going to a Trump Riot. All good now? Where was Fauci during the riots BT… ,"[('Trump', 'CANDIDATE')]"
+23,"@RepValDemings He is inciting violence.  Hopefully, protesters will be peaceful and shame him and his supporters (t… https://t.co/iJKDQYFshv"," He is inciting violence.  Hopefully, protesters will be peaceful and shame him and his supporters (t… ",
+24,@RepValDemings Murders should be illegal. Armed robbery should be illegal. Sales of illegal narcotics should be ill… https://t.co/7mHsWGFEaa, Murders should be illegal. Armed robbery should be illegal. Sales of illegal narcotics should be ill… ,
+25,"RT @RepValDemings: In 1966 Dr. King said that “of all the forms of inequality, injustice in health is the most shocking and the most inhuma…"," In 1966 Dr. King said that “of all the forms of inequality, injustice in health is the most shocking and the most inhuma…",
+26,"@RepValDemings Your so very, very ignorant. We don't need communist sympathizers in America . . .please, just leave… https://t.co/9gcAc7KNTY"," Your so very, very ignorant. We don't need communist sympathizers in America . . .please, just leave… ","[('America', 'COUNTRY'), ('America', 'COUNTRY')]"
+27,"@RepValDemings They could.... if they weren’t Satan on earth🥴
+#Biden2020
+#FlipItALLBlue🌊🌊🌊🌊🌊🌊🌊🌊"," They could.... if they weren’t Satan on earth
+
+",
+28,@RepValDemings This is BAD! And the only way to get rid of what's bad is to vote out what's bad! Starting with this president on down!, This is BAD! And the only way to get rid of what's bad is to vote out what's bad! Starting with this president on down!,
+29,"@RepValDemings Demings. How can you tweet such hypocritical, literal garbage, after supporting thousands of protest… https://t.co/1CNAyFh8nq"," Demings. How can you tweet such hypocritical, literal garbage, after supporting thousands of protest… ",
+30,@RepValDemings I see it as a chance to start a discussion with Black Americans about change for the better., I see it as a chance to start a discussion with Black Americans about change for the better.,"[('America', 'COUNTRY'), ('Black American', 'PEOPLE'), ('America', 'COUNTRY')]"
+31,@RepValDemings They seem intent on doing the opposite of healing racial injustice, They seem intent on doing the opposite of healing racial injustice,
+32,@RepValDemings Except if you are protesting and rioting., Except if you are protesting and rioting.,
+33,"@RepValDemings Black Americans do not need or deserve that kind of message right now, or ever!"," Black Americans do not need or deserve that kind of message right now, or ever!","[('America', 'COUNTRY'), ('Black American', 'PEOPLE'), ('America', 'COUNTRY')]"
+34,@RepValDemings They seem very capable of pouring gas on the fire though., They seem very capable of pouring gas on the fire though.,
+35,"RT @RepValDemings: As the nation burns, we face a real choice. Build a society for all, or maintain a society for a select few. I know my c…"," As the nation burns, we face a real choice. Build a society for all, or maintain a society for a select few. I know my c…",
+36,@RepValDemings Damn idiot, Damn idiot,
+37,@RepValDemings I’m sure it’s intended to provoke demonstrations. He will use any demonstration in Tulsa to claim la… https://t.co/BDxKcbvf7K, I’m sure it’s intended to provoke demonstrations. He will use any demonstration in Tulsa to claim la… ,"[('Tulsa', 'LOCATION')]"
+38,@RepValDemings Who wants to bet Stephen Miller picked the place &amp, Who wants to bet Stephen Miller picked the place &amp,"[('Stephen Miller', 'PERSON')]"
+39,"@RepValDemings Relax, they’re just protesting. CDC said protesting is totally fine. https://t.co/NG2canqJYl"," Relax, they’re just protesting. CDC said protesting is totally fine. ",
+40,@RepValDemings Until Joe, Until Joe,
+41,"@RepValDemings Gee, I wonder what sparked that resurgence? Wasn't there a huge nationwide event featuring hundreds… https://t.co/rlWau0o5ja"," Gee, I wonder what sparked that resurgence? Wasn't there a huge nationwide event featuring hundreds… ",
+42,@RepValDemings Another Lib hypocrite.  I couldn’t find your tweet concerned about the 1000’s of protesters in Flori… https://t.co/nYsV1Q0ekk, Another Lib hypocrite.  I couldn’t find your tweet concerned about the 1000’s of protesters in Flori… ,
+43,@RepValDemings How about the protesters and rioters? Where’s those tweets? This is just laughable., How about the protesters and rioters? Where’s those tweets? This is just laughable.,
+44,"@RepValDemings That is the job we hired them to do.  If they were employees we could fire immediately,  many of us… https://t.co/r7tpmvZP6a"," That is the job we hired them to do.  If they were employees we could fire immediately,  many of us… ",
+45,@RepValDemings @tami_klomp Fake news.,  Fake news.,
+46,RT @RepValDemings: Chokeholds by law enforcement should be banned nationwide. Our legislation does., Chokeholds by law enforcement should be banned nationwide. Our legislation does.,
+47,@RepValDemings Your voice looks hollow when thousands of people were on top of each other in the last few weeks, Your voice looks hollow when thousands of people were on top of each other in the last few weeks,
+48,@RepValDemings Give it up. Nobody buys this line of bullshit anymore., Give it up. Nobody buys this line of bullshit anymore.,
+49,"@RepValDemings Just consider them 'protests,' Val. Problem solved!"," Just consider them 'protests,' Val. Problem solved!",
+50,@RepValDemings He does not care about American people.. he has literally proven it over and over again. We need to… https://t.co/vj0I7eHYPS, He does not care about American people.. he has literally proven it over and over again. We need to… ,"[('America', 'COUNTRY'), ('America', 'COUNTRY')]"
+51,@RepValDemings Val doesn't even know black history https://t.co/OC4nHrrx2k, Val doesn't even know black history ,
+52,@RepValDemings There is no maintaining this. We’ve reached a point of no return. We either fix this shit or the US will burn., There is no maintaining this. We’ve reached a point of no return. We either fix this shit or the US will burn.,"[('US', 'COUNTRY')]"
+53,"@RepValDemings @MuellerSheWrote That seems optimistic.
+
+I’m concerned it’ll actually be far worse.","  That seems optimistic.
+
+I’m concerned it’ll actually be far worse.",
+54,"@RepValDemings He can't have a more comprehensive testing plan because that would cause more cases, and that would foul up his numbers!"," He can't have a more comprehensive testing plan because that would cause more cases, and that would foul up his numbers!",
+55,@RepValDemings But mass gatherings for protests are encouraged? #LiberalHack, But mass gatherings for protests are encouraged? ,
+56,@RepValDemings Trying to silence Republica voices is vile and wicked. You have violated your oath of office and sho… https://t.co/KPo2NjXO5f, Trying to silence Republica voices is vile and wicked. You have violated your oath of office and sho… ,
+57,@RepValDemings https://t.co/M9xFQogeQq well well well looks like Covid19 was all a hoax. Carry on with your lives p… https://t.co/TZpA7jsamK,  well well well looks like Covid19 was all a hoax. Carry on with your lives p… ,"[('Covid', 'VIRUS')]"
+58,@RepValDemings Stupid. @Potus has trolled all of you into the point of exposing how idiotic and biased you are., Stupid.  has trolled all of you into the point of exposing how idiotic and biased you are.,
+59,@RepValDemings Riots killed Rona https://t.co/BKa0kFhQYh, Riots killed Rona ,"[('Rona', 'Person')]"
+60,@RepValDemings But it’s ok to riot and burn buildings down..stfu, But it’s ok to riot and burn buildings down..stfu,
+61,"RT @RepValDemings: Somehow, stunningly, after months to fix the system, Floridians are still being denied their rightfully-owed unemploymen…"," Somehow, stunningly, after months to fix the system, Floridians are still being denied their rightfully-owed unemploymen…",
+62,"@RepValDemings Rep Demings : you brought Joe Biden to your district recently, a district that was once a kkk strong… https://t.co/vCfYhfSks2"," Rep Demings : you brought Joe Biden to your district recently, a district that was once a kkk strong… ","[('Joe Biden', 'CANDIDATE')]"
+63,@RepValDemings But your rally is ok🤔 #DoubleStandard https://t.co/ftqRNKezVB, But your rally is ok  ,
+64,@RepValDemings They’ll just call it a protest. Should be ok., They’ll just call it a protest. Should be ok.,
+65,@RepValDemings Could you do us a favor? Shove it., Could you do us a favor? Shove it.,
+66,"Thanks #brother radicalrootstattoos for the #great #gift that will never #forget in my #life, it’s Second day of #tattoo hai guys 😊 #hope you all will like #jaguartattoo ❤️🙏🏻✊ #chetanvlogs #orangestudiochetan… https://t.co/zVm0WvqDGT","Thanks  radicalrootstattoos for the   that will never  in my , it’s Second day of  hai guys   you all will like    … ",
+67,@RepValDemings How about if we just call it a protest., How about if we just call it a protest.,
+68,@RepValDemings No one believes your BS no more!!!, No one believes your BS no more!!!,
+69,"@RepValDemings Yep, all those protesters going home now are gonna pass the Covid to Granny and Grampa https://t.co/DdqwdcmXDq"," Yep, all those protesters going home now are gonna pass the Covid to Granny and Grampa ","[('Covid', 'VIRUS')]"
+70,@RepValDemings We'll call it a protest..., We'll call it a protest...,
+71,@RepValDemings He is working on it Val Demings Your fired!!, He is working on it Val Demings Your fired!!,
+72,"#TBT
+Remembering a moment from the run of Orlando Ballet’s The Nutcracker when Shawn Hunt actually performed Robin… https://t.co/mv3XABd8FU","
+Remembering a moment from the run of Orlando Ballet’s The Nutcracker when Shawn Hunt actually performed Robin… ","[('Orlando', 'LOCATION'), ('Robin', 'PERSON')]"
+73,@RepValDemings Are you serious, Are you serious,
+74,"@RepValDemings You sound like a crazy person.  So, if the liberal socialists want to gather, “it’s their right,” bu… https://t.co/UKTN7Z63GK"," You sound like a crazy person.  So, if the liberal socialists want to gather, “it’s their right,” bu… ",
+75,"@RepValDemings Just a thought...maybe stay home then? Because it seems to me that if people out ""protesting"" wasn't… https://t.co/qNMiy62Lsv"," Just a thought...maybe stay home then? Because it seems to me that if people out ""protesting"" wasn't… ",
+76,"RT @RepValDemings: Inexcusably, instead of a comprehensive testing plan, the administration has abandoned all leadership and is asking stat…"," Inexcusably, instead of a comprehensive testing plan, the administration has abandoned all leadership and is asking stat…",
+77,"RT @Todd_Scheve: 15 year old Heaven Akins has been #missing from #Orlando, #Florida since May 21, 2020 and may travel to #SouthDaytona or #…"," 15 year old Heaven Akins has been  from ,  since May 21, 2020 and may travel to  or #…",
+78,@RepValDemings Why aren’t all of you public officials DEMANDING that the CDC/WHO/NIH/Johns Hopkins....release data… https://t.co/tW7L1JTIUF, Why aren’t all of you public officials DEMANDING that the CDC/WHO/NIH/Johns Hopkins....release data… ,"[('WHO', 'ORGANIZATION')]"
+79,@RepValDemings Hypocrisy in action 🔝, Hypocrisy in action ,
+80,@RepValDemings Thanks 🙏 Vp https://t.co/HLBY3baHa6, Thanks  Vp ,
+81,@RepValDemings is latest in #dumbdem #TrumpDerangementSyndrome she came out publicly against the @realDonaldTrump h… https://t.co/Hqic3xSzXe, is latest in   she came out publicly against the  h… ,
+82,@RepValDemings I hope you have a prominent position in the Biden Administration!!!!!!, I hope you have a prominent position in the Biden Administration!!!!!!,
+83,@RepValDemings Get over it please. We have been duped with this virus. Just like flu. Just wash your hands &amp, Get over it please. We have been duped with this virus. Just like flu. Just wash your hands &amp,
+84,"@RepValDemings But, it was for a really good cause."," But, it was for a really good cause.",
+85,@RepValDemings Too late you encouraged thousands to protest and riot.  This use of COVID scam is over, Too late you encouraged thousands to protest and riot.  This use of COVID scam is over,"[('COVID', 'VIRUS')]"
+86,"@RepValDemings Get over yourself, racist! These rallies ARE GOING TO HAPPEN  and the President, who you tried so ha… https://t.co/2gwqctv6Bl"," Get over yourself, racist! These rallies ARE GOING TO HAPPEN  and the President, who you tried so ha… ",
+87,"@RepValDemings Rep Lemmings...definitely have to rename this one.  I bet you loved those ""protests"" though."," Rep Lemmings...definitely have to rename this one.  I bet you loved those ""protests"" though.",
+88,@RepValDemings Cases mean nothing if there is a 99.9% recovery rate., Cases mean nothing if there is a 99.9% recovery rate.,
+89,@RepValDemings You are talking like a real tool., You are talking like a real tool.,
+90,@RepValDemings Very on-brand for Trump., Very on-brand for Trump.,"[('Trump', 'CANDIDATE')]"
+91,@RepValDemings You don’t get to say this is irresponsible and selfish when no one made a peep about Corona when it came to massive protests, You don’t get to say this is irresponsible and selfish when no one made a peep about Corona when it came to massive protests,
+92,@RepValDemings You aren't allowed to talk about this after allowing major American cities to fall to anarchists., You aren't allowed to talk about this after allowing major American cities to fall to anarchists.,"[('America', 'COUNTRY'), ('America', 'COUNTRY')]"
+93,@RepValDemings While these gatherings were ok ?? 🤔 https://t.co/LW66haTMiW, While these gatherings were ok ??  ,
+94,"@RepValDemings ""Rallies for me but not for thee"""," ""Rallies for me but not for thee""",
+95,@RepValDemings Irresponsible and selfish.  Sounds like a truth-in-packaging campaign slogan for @realDonaldTrump., Irresponsible and selfish.  Sounds like a truth-in-packaging campaign slogan for .,
+96,@RepValDemings But massive protests are fine, But massive protests are fine,
+97,@RepValDemings He’s an irresponsible and selfish man., He’s an irresponsible and selfish man.,
+98,@RepValDemings It’s only ok if it fits your agenda?, It’s only ok if it fits your agenda?,
+99,@RepValDemings Just shut up. It’s over., Just shut up. It’s over.,
+100,@RepValDemings It’s called freedom., It’s called freedom.,
+101,"@RepValDemings Save yourself
+
+Head back to DC and report for duty in Congress if it's unsafe in FLA
+
+Ask Gran Nan to bring the 🍨🍨🍨🍨🍨🍨
+
+B💥💥M"," Save yourself
+
+Head back to DC and report for duty in Congress if it's unsafe in FLA
+
+Ask Gran Nan to bring the 
+
+BM",
+102,@RepValDemings @BradleyWhitford He Fleeced the country out of $500B.  Georgia voters stood for 13hrs Tues.Mail in b… https://t.co/uvJo126Pwh,  He Fleeced the country out of $500B.  Georgia voters stood for 13hrs Tues.Mail in b… ,"[('Georgia', 'LOCATION')]"
+103,"@RepValDemings But you’re ok with the protesters, rioters , and looters, right?"," But you’re ok with the protesters, rioters , and looters, right?",
+104,"@RepValDemings Of course!  Rioters and looters are immune to Covid even when sharing rocks, bricks, and touching co… https://t.co/MDZGe8dTMQ"," Of course!  Rioters and looters are immune to Covid even when sharing rocks, bricks, and touching co… ","[('Covid', 'VIRUS')]"
+105,@RepValDemings Is it okay if I go to a Trump rally to riot?, Is it okay if I go to a Trump rally to riot?,"[('Trump', 'CANDIDATE')]"
+106,"RT @OCCC: 🍊 Today, the OCCC presented its Recovery and Resiliency Plan to @OrangeCoFL Economic Recovery Task Force. Following a three prong…","  Today, the OCCC presented its Recovery and Resiliency Plan to  Economic Recovery Task Force. Following a three prong…",
+107,@RepValDemings Okay hypocrite., Okay hypocrite.,
+108,@RepValDemings @nelson_luanne Clear as can be.,  Clear as can be.,
+109,@RepValDemings If Covid- 19 is so dangerous...why would you be so worried...the Republicans May lose some votes when they get so sick., If Covid- 19 is so dangerous...why would you be so worried...the Republicans May lose some votes when they get so sick.,"[('Covid', 'VIRUS')]"
+110,@RepValDemings Where is your quote telling rioters to go home it is not save? Produce it or sit down., Where is your quote telling rioters to go home it is not save? Produce it or sit down.,
+111,@RepValDemings You got that right https://t.co/jbqFPxop13, You got that right ,
+112,@RepValDemings Scared much?, Scared much?,
+113,@RepValDemings Shut up, Shut up,
+114,@RepValDemings You are a special case of stupid if you think riots are ok but rallies are not. We see through your idiotic schemes., You are a special case of stupid if you think riots are ok but rallies are not. We see through your idiotic schemes.,
+115,@RepValDemings Thanks to who?   Could this be the rioters?   or they did not riot long enough so now you need this back., Thanks to who?   Could this be the rioters?   or they did not riot long enough so now you need this back.,
+116,@RepValDemings What a hypocrite!!! We’ll just call it a protest... feel better?, What a hypocrite!!! We’ll just call it a protest... feel better?,
+117,"@RepValDemings This is a fun game....Looting, burning down cities, and mass protests as well experience a pandemic… https://t.co/QHJ8pOqqF5"," This is a fun game....Looting, burning down cities, and mass protests as well experience a pandemic… ",
+118,@RepValDemings Your a racist and a lying idiot!, Your a racist and a lying idiot!,
+119,"@RepValDemings Start by addressing the black-on-black crime in ""your communities"" which killed more black people th… https://t.co/iqQXhYfJLS"," Start by addressing the black-on-black crime in ""your communities"" which killed more black people th… ",
+120,"@RepValDemings Oh well, it wasn't yesterday so don't think your little
+  double talk will stop the rallies, they'll… https://t.co/u5LFrpEYU4"," Oh well, it wasn't yesterday so don't think your little
+  double talk will stop the rallies, they'll… ",
+121,@RepValDemings You’ll be alright... did you express this concern over #GeorgeFloyd protests/riots?  You would at le… https://t.co/gd2TTJC5u3, You’ll be alright... did you express this concern over  protests/riots?  You would at le… ,
