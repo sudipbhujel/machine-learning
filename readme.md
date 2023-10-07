@@ -1,4 +1,4 @@
-# EKBANA Solution
+# Machine learning Exploration
 
 ## Instructions to run programs
 
